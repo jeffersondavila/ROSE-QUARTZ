@@ -6729,6 +6729,16 @@ textarea.form-control-lg {
   z-index: 1020;
 }
 
+@media screen and (max-width:620px){
+  .img-fluid-bracelet {
+    width: 100%;
+  }
+  .img-fluid-5,
+  .img-fluid{
+    margin-left: -0.8rem;
+  }
+}
+
 @media (min-width: 576px) {
   .sticky-sm-top {
     position: -webkit-sticky;
